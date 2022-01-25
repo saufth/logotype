@@ -1,5 +1,7 @@
 # Logotype
 
+![image](https://raw.github.com/saufth/logotype/Saufth/export/PNG/logo-64.png)
+
 *My official logotype.*
 
 ## Colors

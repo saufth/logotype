@@ -1,6 +1,16 @@
 # Logotype
 
 ![image](https://raw.github.com/saufth/logotype/Saufth/export/PNG/logo-64.png)
+![image](https://raw.github.com/saufth/logotype/Saufth/export/PNG/logo-blue-violet-64.png)
+![image](https://raw.github.com/saufth/logotype/Saufth/export/PNG/logo-sky-magenta-64.png)
+![image](https://raw.github.com/saufth/logotype/Saufth/export/PNG/logo-black-64.png)
+![image](https://raw.github.com/saufth/logotype/Saufth/export/PNG/logo-white-64.png)
+![image](https://raw.github.com/saufth/logotype/Saufth/export/PNG/logo-outline-64.png)
+![image](https://raw.github.com/saufth/logotype/Saufth/export/PNG/logo-blue-violet-outline-64.png)
+![image](https://raw.github.com/saufth/logotype/Saufth/export/PNG/logo-sky-magenta-outline-64.png)
+![image](https://raw.github.com/saufth/logotype/Saufth/export/PNG/logo-black-outline-64.png)
+![image](https://raw.github.com/saufth/logotype/Saufth/export/PNG/logo-white-outline-64.png)
+![image](https://raw.github.com/saufth/logotype/Saufth/export/PNG/logo-black-white-outline-64.png)
 
 *My official logotype.*
 
